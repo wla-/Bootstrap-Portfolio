@@ -1,2 +1,4 @@
 # Bootstrap-Portfolio
-Second Homework Assignment, Bootstrap Version
+Bootstrap Version of Portfolio Wireframe
+
+
